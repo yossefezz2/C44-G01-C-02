@@ -75,7 +75,7 @@ class Program
 
         //string AllText = subTex1t + subText2;
 
-        //Console.WriteLine(AllText);
+        //Console.WriteLine(AllText) ;
         #endregion
 
         #region task 8
@@ -87,7 +87,7 @@ class Program
         //d) 6 1
         #endregion
 
-        #region task 10
+        #region task 10 
         //d) 7 7
         #endregion
     }
